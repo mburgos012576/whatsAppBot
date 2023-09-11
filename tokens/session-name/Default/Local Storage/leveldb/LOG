@@ -1,0 +1,30 @@
+2023/08/25-09:55:12.227 48c8 Reusing MANIFEST E:\xampp\htdocs\MERN\WhatsAppNode\WhatsAppV3.0\WhatsAppBot\tokens\session-name\Default\Local Storage\leveldb/MANIFEST-000001
+2023/08/25-09:55:12.228 48c8 Recovering log #78
+2023/08/25-09:55:12.231 48c8 Reusing old log E:\xampp\htdocs\MERN\WhatsAppNode\WhatsAppV3.0\WhatsAppBot\tokens\session-name\Default\Local Storage\leveldb/000078.log 
+2023/08/26-23:37:26.272 48e8 Level-0 table #83: started
+2023/08/26-23:37:26.287 48e8 Level-0 table #83: 10749 bytes OK
+2023/08/26-23:37:26.289 48e8 Delete type=0 #78
+2023/08/29-07:00:26.552 48e8 Level-0 table #85: started
+2023/08/29-07:00:26.566 48e8 Level-0 table #85: 9867 bytes OK
+2023/08/29-07:00:26.571 48e8 Delete type=0 #82
+2023/08/31-13:53:18.537 48e8 Level-0 table #87: started
+2023/08/31-13:53:18.542 48e8 Level-0 table #87: 9971 bytes OK
+2023/08/31-13:53:18.543 48e8 Delete type=0 #84
+2023/09/02-21:06:10.717 48e8 Level-0 table #89: started
+2023/09/02-21:06:10.751 48e8 Level-0 table #89: 9870 bytes OK
+2023/09/02-21:06:10.755 48e8 Delete type=0 #86
+2023/09/02-21:06:10.756 48e8 Compacting 4@0 + 1@1 files
+2023/09/02-21:06:10.762 48e8 Generated table #90@0: 71 keys, 4165 bytes
+2023/09/02-21:06:10.762 48e8 Compacted 4@0 + 1@1 files => 4165 bytes
+2023/09/02-21:06:10.763 48e8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/09/02-21:06:10.764 48e8 Delete type=2 #80
+2023/09/02-21:06:10.764 48e8 Delete type=2 #83
+2023/09/02-21:06:10.764 48e8 Delete type=2 #85
+2023/09/02-21:06:10.764 48e8 Delete type=2 #87
+2023/09/02-21:06:10.764 48e8 Delete type=2 #89
+2023/09/05-04:39:01.965 48e8 Level-0 table #92: started
+2023/09/05-04:39:01.969 48e8 Level-0 table #92: 9855 bytes OK
+2023/09/05-04:39:01.971 48e8 Delete type=0 #88
+2023/09/07-11:31:58.456 48e8 Level-0 table #94: started
+2023/09/07-11:31:58.460 48e8 Level-0 table #94: 9936 bytes OK
+2023/09/07-11:31:58.462 48e8 Delete type=0 #91
